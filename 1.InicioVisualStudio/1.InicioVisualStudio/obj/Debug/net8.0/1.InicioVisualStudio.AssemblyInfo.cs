@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.InicioVisualStudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f6d19fa52bba1e54ce10b2007d5d89a2198fb21")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.InicioVisualStudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.InicioVisualStudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
