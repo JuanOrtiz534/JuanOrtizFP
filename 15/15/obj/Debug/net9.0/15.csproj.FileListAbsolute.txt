@@ -1,0 +1,14 @@
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\bin\Debug\net9.0\15.exe
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\bin\Debug\net9.0\15.deps.json
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\bin\Debug\net9.0\15.runtimeconfig.json
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\bin\Debug\net9.0\15.dll
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\bin\Debug\net9.0\15.pdb
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.AssemblyInfoInputs.cache
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.AssemblyInfo.cs
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.csproj.CoreCompileInputs.cache
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.dll
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\refint\15.dll
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.pdb
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\15.genruntimeconfig.cache
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\15\15\obj\Debug\net9.0\ref\15.dll
