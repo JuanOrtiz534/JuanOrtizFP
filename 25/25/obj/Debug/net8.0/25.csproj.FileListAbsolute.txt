@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\bin\Debug\net8.0\25.exe
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\bin\Debug\net8.0\25.deps.json
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\bin\Debug\net8.0\25.runtimeconfig.json
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\bin\Debug\net8.0\25.dll
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\bin\Debug\net8.0\25.pdb
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.sourcelink.json
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.dll
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\refint\25.dll
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.pdb
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\25.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\Jp\JuanOrtizFP\25\25\obj\Debug\net8.0\ref\25.dll
