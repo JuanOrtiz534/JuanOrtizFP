@@ -1,0 +1,14 @@
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\bin\Debug\net9.0\Practica.exe
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\bin\Debug\net9.0\Practica.deps.json
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\bin\Debug\net9.0\Practica.runtimeconfig.json
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\bin\Debug\net9.0\Practica.dll
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\bin\Debug\net9.0\Practica.pdb
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.AssemblyInfoInputs.cache
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.AssemblyInfo.cs
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.csproj.CoreCompileInputs.cache
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.dll
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\refint\Practica.dll
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.pdb
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\Practica.genruntimeconfig.cache
+C:\Users\JUAN PABLO\Desktop\Juan\JuanOrtizFP\Practica\Practica\obj\Debug\net9.0\ref\Practica.dll
